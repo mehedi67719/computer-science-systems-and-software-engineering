@@ -39,3 +39,7 @@ console.log(smallest_number)
 const small_number=Math.min(...numbers)
 
 console.log(small_number)
+
+
+
+
