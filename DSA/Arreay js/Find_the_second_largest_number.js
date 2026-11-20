@@ -1,3 +1,5 @@
+// Find the second largest number
+
 const numbers = [10, 50, 30, 80, 60, 70]; 
 
 let largest=numbers[0]
